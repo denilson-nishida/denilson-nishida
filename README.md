@@ -15,7 +15,7 @@ Just getting started here.. Hope I can learn to set this up in the near future. 
   <img align="center" alt="Denilson-ScikitLearn" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg">
   <img align="center" alt="Denilson-TensorFlow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
   <img align="center" alt="Denilson-Keras" height="90" width="100" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original-wordmark.svg">
-  <img align="center" alt="Denilson-LangChain" height="90" width="100" src="https://images.seeklogo.com/logo-png/61/1/langchain-logo-png_seeklogo-611654.png">
+  <img align="center" alt="Denilson-LangChain" height="90" width="100" src="https://github.com/langchain-ai/langchain/raw/master/docs/static/img/logo-dark.svg">
 </div>
 
 ### Web App
