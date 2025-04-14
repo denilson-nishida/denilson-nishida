@@ -10,11 +10,23 @@ Just getting started here.. Hope I can learn to set this up in the near future. 
   <img align="center" alt="Denilson-MySQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+### Machine Learning & AI
+<div style="display: inline_block">
+  <img align="center" alt="Denilson-ScikitLearn" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="Denilson-TensorFlow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"> 
+  <img align="center" alt="Denilson-Keras" height="90" width="100" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original-wordmark.svg">
+</div>
+
+### Web App
+<div style="display: inline_block">
+  <img align="center" alt="Denilson-Streamlit" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg">
+  <img align="center" alt="Denilson-Flask" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+</div>
+
 ### Currently learning
 <div style="display: inline_block">
-  <img align="center" alt="Denilson-TensorFlow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Denilson-OpenCV" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
-  <img align="center" alt="Denilson-Flask" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="Denilson-Airflow" height="70" width="90" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apacheairflow/apacheairflow-original-wordmark.svg">
 </div>
 
 ##
